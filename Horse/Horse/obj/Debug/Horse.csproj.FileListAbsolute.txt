@@ -1,0 +1,10 @@
+D:\Alex\Projects\GitHub\Intellectual-Systems\Horse\Horse\bin\Debug\Horse.exe.config
+D:\Alex\Projects\GitHub\Intellectual-Systems\Horse\Horse\bin\Debug\Horse.exe
+D:\Alex\Projects\GitHub\Intellectual-Systems\Horse\Horse\bin\Debug\Horse.pdb
+D:\Alex\Projects\GitHub\Intellectual-Systems\Horse\Horse\obj\Debug\Horse.csprojResolveAssemblyReference.cache
+D:\Alex\Projects\GitHub\Intellectual-Systems\Horse\Horse\obj\Debug\Horse.Form1.resources
+D:\Alex\Projects\GitHub\Intellectual-Systems\Horse\Horse\obj\Debug\Horse.Properties.Resources.resources
+D:\Alex\Projects\GitHub\Intellectual-Systems\Horse\Horse\obj\Debug\Horse.csproj.GenerateResource.Cache
+D:\Alex\Projects\GitHub\Intellectual-Systems\Horse\Horse\obj\Debug\Horse.csproj.CoreCompileInputs.cache
+D:\Alex\Projects\GitHub\Intellectual-Systems\Horse\Horse\obj\Debug\Horse.exe
+D:\Alex\Projects\GitHub\Intellectual-Systems\Horse\Horse\obj\Debug\Horse.pdb
